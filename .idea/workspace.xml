@@ -2,17 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="499e1885-7630-4c81-90b6-2f05172e7ce7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kit/carros-moviles.kit" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/carros-moviles.html" afterPath="$PROJECT_DIR$/carros-moviles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/casetas.html" afterPath="$PROJECT_DIR$/casetas.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clientes.html" afterPath="$PROJECT_DIR$/clientes.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit" afterPath="$PROJECT_DIR$/config.codekit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contacto.html" afterPath="$PROJECT_DIR$/contacto.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fabrica-metalurgica.html" afterPath="$PROJECT_DIR$/fabrica-metalurgica.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/high-tier.html" afterPath="$PROJECT_DIR$/high-tier.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ingenieria.html" afterPath="$PROJECT_DIR$/ingenieria.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/casetas.kit" afterPath="$PROJECT_DIR$/kit/casetas.kit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/head.kit" afterPath="$PROJECT_DIR$/kit/head.kit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/high-tier.kit" afterPath="$PROJECT_DIR$/kit/high-tier.kit" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/index.kit" afterPath="$PROJECT_DIR$/kit/index.kit" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/ingenieria.kit" afterPath="$PROJECT_DIR$/kit/ingenieria.kit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/low-tier.kit" afterPath="$PROJECT_DIR$/kit/low-tier.kit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/mastiles.kit" afterPath="$PROJECT_DIR$/kit/mastiles.kit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/med-tier.kit" afterPath="$PROJECT_DIR$/kit/med-tier.kit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/menu.kit" afterPath="$PROJECT_DIR$/kit/menu.kit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/montajes.kit" afterPath="$PROJECT_DIR$/kit/montajes.kit" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/porta-paneles-solares.kit" afterPath="$PROJECT_DIR$/kit/porta-paneles-solares.kit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/servicio-tecnico.kit" afterPath="$PROJECT_DIR$/kit/servicio-tecnico.kit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/soportes-especiales.kit" afterPath="$PROJECT_DIR$/kit/soportes-especiales.kit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/torre-autosoportada.kit" afterPath="$PROJECT_DIR$/kit/torre-autosoportada.kit" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kit/torre-contraventada.kit" afterPath="$PROJECT_DIR$/kit/torre-contraventada.kit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/low-tier.html" afterPath="$PROJECT_DIR$/low-tier.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mastiles.html" afterPath="$PROJECT_DIR$/mastiles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/med-tier.html" afterPath="$PROJECT_DIR$/med-tier.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/montajes.html" afterPath="$PROJECT_DIR$/montajes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/porta-paneles-solares.html" afterPath="$PROJECT_DIR$/porta-paneles-solares.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/servicio-tecnico.html" afterPath="$PROJECT_DIR$/servicio-tecnico.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/soportes-especiales.html" afterPath="$PROJECT_DIR$/soportes-especiales.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.min.css" afterPath="$PROJECT_DIR$/style.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.min.css.map" afterPath="$PROJECT_DIR$/style.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/torre-autosoportada.html" afterPath="$PROJECT_DIR$/torre-autosoportada.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/torre-contraventada.html" afterPath="$PROJECT_DIR$/torre-contraventada.html" />
     </list>
     <ignored path="html.iws" />
@@ -37,8 +62,8 @@
       <file leaf-file-name="index.kit" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kit/index.kit">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1680">
-              <caret line="112" column="50" selection-start-line="112" selection-start-column="50" selection-end-line="112" selection-end-column="50" />
+            <state relative-caret-position="1665">
+              <caret line="111" column="50" selection-start-line="111" selection-start-column="50" selection-end-line="111" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -47,7 +72,7 @@
       <file leaf-file-name="ingenieria.kit" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kit/ingenieria.kit">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-450">
+            <state relative-caret-position="720">
               <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
               <folding />
             </state>
@@ -57,7 +82,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7500">
+            <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -67,8 +92,8 @@
       <file leaf-file-name="torre-contraventada.kit" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kit/torre-contraventada.kit">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+            <state relative-caret-position="1275">
+              <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -107,8 +132,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1920" />
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -135,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -170,7 +196,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,17 +278,19 @@
       <workItem from="1459875817870" duration="344000" />
       <workItem from="1459876493949" duration="1627000" />
       <workItem from="1459880081781" duration="481000" />
+      <workItem from="1460080865918" duration="20000" />
+      <workItem from="1460111527538" duration="70000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2452000" />
+    <option name="totallyTimeSpent" value="2542000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="1920" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22013889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21953125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -299,6 +326,78 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/kit/index.kit">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="111" column="50" selection-start-line="111" selection-start-column="50" selection-end-line="111" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kit/ingenieria.kit">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kit/torre-contraventada.kit">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kit/porta-paneles-solares.kit">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kit/index.kit">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kit/ingenieria.kit">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kit/torre-contraventada.kit">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kit/index.kit">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1680">
           <caret line="112" column="50" selection-start-line="112" selection-start-column="50" selection-end-line="112" selection-end-column="50" />
           <folding />
@@ -315,15 +414,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kit/index.kit">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="112" column="50" selection-start-line="112" selection-start-column="50" selection-end-line="112" selection-end-column="50" />
+        <state relative-caret-position="1665">
+          <caret line="111" column="50" selection-start-line="111" selection-start-column="50" selection-end-line="111" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kit/ingenieria.kit">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
+        <state relative-caret-position="720">
           <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
           <folding />
         </state>
@@ -331,7 +430,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7500">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -339,8 +438,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kit/torre-contraventada.kit">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        <state relative-caret-position="1275">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
           <folding />
         </state>
       </provider>
